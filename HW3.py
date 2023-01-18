@@ -38,6 +38,6 @@ def zadacha3():
         print("Бот: Не знаю, что на это ответить")
       
         
-zadacha1()
-zadacha2()
-zadacha3()
+#zadacha1()
+#zadacha2()
+#zadacha3()
